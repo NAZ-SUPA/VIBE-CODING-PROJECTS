@@ -1,2 +1,2 @@
 # VIBE-CODING-PROJECTS
-A simple repository for those project full based AI codes, from prompt to agentic engineering
+A SIMPLE REPOSITORY FOR THOSE PROJECTS FULL BASED AI CODES, FROM PROMPT TO AGENTIC ENGINEERING.
